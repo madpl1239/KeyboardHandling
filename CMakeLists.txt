@@ -1,5 +1,5 @@
 # CMakeLists.txt for handlekbd
-# 02-11-2022
+# 02-11-2022 by madpl
 
 cmake_minimum_required(VERSION 3.26)
 project(handleKbd)
