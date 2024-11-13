@@ -56,4 +56,4 @@ private:
 	std::map<int, std::function<void(void)>> m_funcKeyb{};
 };
 
-inline CKeyboard keyboard{};
+inline CKeyboard keyboard;
