@@ -53,4 +53,4 @@ private:
 	sf::Event m_event;
 };
 
-inline CApp app;
+inline CApp app{};
