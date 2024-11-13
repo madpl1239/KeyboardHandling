@@ -2,6 +2,7 @@
  * main.cpp
  * 
  * Keyboard and mouse support using std::map.
+ * Uses WSAD keys.
  * 
  * 02-11-2022 by madpl
  */
