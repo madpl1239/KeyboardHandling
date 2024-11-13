@@ -7,4 +7,4 @@
 
 constexpr int WIDTH = 800; 
 constexpr int HEIGHT = 600;
-constexpr sf::Uint32 BLACK = 0x1f1f1fff;
+constexpr sf::Uint32 BLACK = 0x1f1f1faa;
