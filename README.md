@@ -1,5 +1,7 @@
 # Keyboard Handling
-Simple keyboard handling support using std::map, std::function for use in own games.
+
+Hi, I want share my small, example code C++.
+Simple keyboard handling support using std::map, std::function. You can uses this in own games.
 This project uses SFML to create simple window.
 
 *See you next time :smiley:*
