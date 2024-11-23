@@ -4,8 +4,8 @@ This project uses SFML to create simple window.
 
 ```C++
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 25
+};
 ``` 
