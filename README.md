@@ -4,4 +4,6 @@ This project uses SFML to create simple window.
 
 *See you next time :smiley:*
 
+
+**license**
 [MIT](https://choosealicense.com/licenses/mit/)
